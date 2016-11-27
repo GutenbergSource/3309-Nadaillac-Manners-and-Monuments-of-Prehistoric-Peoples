@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Manners and Monuments of Prehistoric Peoples</dc:title>
+      <dc:creator>The Marquis de Nadaillac</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2002-07-01</dc:publisher>
+      <dc:date>2002-07-01</dc:date>
+      <dc:rights>Public Domain. </dc:rights>
+      <dc:subject>Archaeology</dc:subject>
+      <dc:subject>Prehistoric peoples</dc:subject>
+      <dc:identifier>pg:3309</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
